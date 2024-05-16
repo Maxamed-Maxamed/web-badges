@@ -1,1 +1,1 @@
-console.log("You Only Live Once.");
+console.log("The quick brown fox jumps over the lazy dog.");
